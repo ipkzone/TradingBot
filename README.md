@@ -374,7 +374,7 @@ Setelah login berhasil, akan tampil **Main Menu**:
 [1] Bot Settings        [5] Position Management
 [2] AI Settings         [6] TA Parameters
 [3] Trade Parameters    [7] API Settings
-[4] Risk Management      [8] Change Symbol (base & broker) ⭐
+[4] Risk Management     [8] Change Symbol (base & broker) ⭐
 [0] Kembali
 ```
 
