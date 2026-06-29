@@ -1,6 +1,9 @@
 <div align="center">
 
+
+
 # 🤖 TRADING BOT v8.0.2 — AI MT5 Auto Trader
+![🤖 TRADING BOT v8.0.2 — AI MT5 Auto Trader](bot.png)
 
 ### *Kecerdasan Buatan untuk Keuntungan Nyata*
 
